@@ -1,6 +1,6 @@
 # vue-turntable
 
-## uni-app+ts+less
+## 基于`uni-app`+`ts`+`less`的九宫格抽奖组件
 
 ## 配置
 
